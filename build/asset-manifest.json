@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4571e833.css",
+    "main.js": "/static/js/main.d51bf2bc.js",
+    "static/media/raghav-iimg.jpg": "/static/media/raghav-iimg.db5f8c778e6c0c70d558.jpg",
+    "index.html": "/index.html",
+    "main.4571e833.css.map": "/static/css/main.4571e833.css.map",
+    "main.d51bf2bc.js.map": "/static/js/main.d51bf2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4571e833.css",
+    "static/js/main.d51bf2bc.js"
+  ]
+}
